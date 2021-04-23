@@ -1,6 +1,6 @@
 {
   "name": "@pheew/prettier-config",
-  "version": "0.0.1-rc.0",
+  "version": "0.0.1",
   "main": "index.json",
   "author": "Niek Bruins <niek@fambruins.nl>",
   "devDependencies": {

@@ -1,0 +1,6 @@
+{
+  "name": "@pheew/prettier-config",
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}

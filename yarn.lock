@@ -9,15 +9,15 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@pheew/prettier-config@workspace:."
   dependencies:
-    prettier: ^2.2.1
+    prettier: ^3.0.0
   languageName: unknown
   linkType: soft
 
-"prettier@npm:^2.2.1":
-  version: 2.2.1
-  resolution: "prettier@npm:2.2.1"
+"prettier@npm:^3.0.0":
+  version: 3.9.10
+  resolution: "prettier@npm:3.9.10"
   bin:
-    prettier: bin-prettier.js
-  checksum: 92c6c9f4b87eba1f28466edee57dd18c80d00b858edda77d46d1950d20e6e302b68ee255fc91133ba931e63c4577b5ae30da194d9626a8f3c0177778b91bf056
+    prettier: bin/prettier.cjs
+  checksum: a3ba4765376d59f6793339f0cc31570bfae6c15cc27bd6487fe52ee89f240c34372934b14db0d6f670811eb1f53977d4502f2a147f527910627c020aa4399145
   languageName: node
   linkType: hard
